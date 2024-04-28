@@ -1,1 +1,4 @@
-Adiciona nas iamgens links nao esquece 
+Adiciona nas imagens links nao esquece 
+Emmet extensão boa
+Color Hunt
+Color Tool - Material Design
